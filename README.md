@@ -12,7 +12,8 @@
 
 附一张效果截图
 
-![微信小程序 - 示例](miniprogram/img/example.png)
+![微信小程序 - 示例](miniprogram/img/example.png | width=48)
+
 
 ## 存在的问题
 
