@@ -1,4 +1,4 @@
-# `blog-applet`
+# Hexo 博客微信小程序
 
 这是我的 Hexo [博客](http://shenxianpeng.github.io/) 的微信小程序，参考了 [WeHexo](https://github.com/HunterXuan/WeHexo).
 
