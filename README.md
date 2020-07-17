@@ -10,9 +10,12 @@
 
 ![微信小程序二维码](miniprogram/img/qrcode.jpg)
 
-附一张效果截图
+附两张效果截图
 
-![微信小程序 - 示例](miniprogram/img/example.png | width=48)
+![微信小程序 - 文章列表](miniprogram/img/list.png)
+
+![微信小程序 - 文章内容](miniprogram/img/article.jpg)
+
 
 
 ## 存在的问题
