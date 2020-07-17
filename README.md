@@ -12,9 +12,7 @@
 
 附两张效果截图
 
-![微信小程序 - 文章列表](miniprogram/img/list.png)
-
-![微信小程序 - 文章内容](miniprogram/img/article.jpg)
+![微信小程序 - 文章列表](miniprogram/img/list.png)  ![微信小程序 - 文章内容](miniprogram/img/article.jpg)
 
 
 
